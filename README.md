@@ -102,7 +102,3 @@ nmap -sU -sV --top-ports 100 -iL ip.txt -oA udp1
 ## 📜 License
 
 This guide is intended for **educational and authorized security testing purposes only**.
-
----
-
-## ✅ End of Guide
