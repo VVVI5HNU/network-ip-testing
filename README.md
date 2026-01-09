@@ -80,6 +80,12 @@ nmap -sU -sV --top-ports 100 -iL ip.txt -oA udp1
 
 ---
 
+## 📡 Step 5 — Convert .xml file to .html
+
+```
+xsltproc output.xml > output.html
+```
+
 ## 📚 Use Cases
 
 - Network VAPT
