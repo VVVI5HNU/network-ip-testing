@@ -101,7 +101,7 @@ xsltproc output.xml > output.html
 - UDP scans are slower than TCP scans
 - Firewall rules may affect scan accuracy
 - Always validate critical findings manually
-- Combine results with vulnerability scanners for deeper analysis
+- Combine results with vulnerability scanners for deeper analysis.
 
 ---
 
